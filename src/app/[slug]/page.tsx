@@ -66,7 +66,7 @@ async function fetchGeneralDataStatic(): Promise<ApiResponse> {
 //     }
 // }
 
-// ✅ Fetch all topics
+//  Fetch all topics
 async function fetchAllTopics(): Promise<TopicDetails[]> {
     const res = await fetch(`${getBaseUrl()}/api/session-content`, {
         cache: 'no-store',
@@ -75,7 +75,7 @@ async function fetchAllTopics(): Promise<TopicDetails[]> {
     return json.data ?? [];
 }
 
-// ✅ Find a topic by slug
+//  Find a topic by slug
 async function fetchTopicBySlug(slug: string): Promise<TopicDetails | null> {
     const topics = await fetchAllTopics();
     return topics.find((item) => item.urlFormat === slug) || null;

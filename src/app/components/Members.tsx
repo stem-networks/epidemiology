@@ -1,7 +1,7 @@
 'use client';
 
 import Image from "next/image";
-import Link from "next/link";
+// import Link from "next/link";
 
 interface Speaker {
   id: number;
@@ -15,67 +15,67 @@ interface Speaker {
 const membersData: Speaker[] = [
   {
     id: 1,
-    image: "/images/images/david.webp",
-    name: "David Zechman",
-    institution: "The Zechman Group",
+    image: "/images/images/Harit.webp",
+    name: "Harit Agroia",
+    institution: "San José State University",
     country: "USA",
-    altText: "David Zechman",
+    altText: "Harit Agroia",
   },
   {
     id: 2,
-    image: "/images/images/irina.webp",
-    name: "Irina Koyfman",
-    institution: "Affinity Expert",
-    country: "USA",
-    altText: "Irina Koyfman",
+    image: "/images/images/vincent.webp",
+    name: "Vincent La Placa",
+    institution: "University of Greenwich",
+    country: "UK",
+    altText: "Vincent La Placa",
   },
   {
     id: 3,
-    image: "/images/images/lisa.webp",
-    name: "Lisa Grubb",
-    institution: "Johns Hopkins School of Nursing",
-    country: "USA",
-    altText: "Lisa Grubb",
+    image: "/images/images/sergey.webp",
+    name: "Sergey Suchkov",
+    institution: "National Center for Human Photosynthesis",
+    country: "Mexico",
+    altText: "Sergey Suchkov",
   },
   {
     id: 4,
-    image: "/images/images/paraskevi.webp",
-    name: "Paraskevi Theofilou",
-    institution: "University of Peloponnese",
-    country: "Greece",
-    altText: "Paraskevi Theofilou",
+    image: "/images/images/Meram.webp",
+    name: "Meram Mohammed Ali Azzani",
+    institution: "Universiti Teknologi MARA (UiTM)",
+    country: "Malaysia",
+    altText: "Meram Mohammed Ali Azzani",
   },
   {
     id: 5,
-    image: "/images/images/Baljit.webp",
-    name: "Baljit Kaur Gill",
-    institution: "Hong kong metropolitan university",
-    country: "China",
-    altText: "Baljit Kaur Gill",
+    image: "/images/images/Uqbah.webp",
+    name: "Uqbah Iqbal",
+    institution: "Universiti Kebangsaan",
+    country: "Malaysia",
+    altText: "Uqbah Iqbal",
   },
   {
     id: 6,
-    image: "/images/images/Conway.webp",
-    name: "Kelly J. Conway",
-    institution: "Rocky mountain university",
-    country: "USA",
-    altText: "Kelly J. Conway",
+    image: "/images/images/elymer.webp",
+    name: "Elymar A. Pascual",
+    institution: "Talangan Integrated National High School",
+    country: "Philippines",
+    altText: "Elymar A. Pascual",
   },
   {
     id: 7,
-    image: "/images/images/Laurin.webp",
-    name: "Laurin Mooney",
-    institution: "Resilience Engineering Association",
-    country: "France",
-    altText: "Laurin Mooney",
+    image: "/images/images/joel.webp",
+    name: "Joel Rey Acob",
+    institution: "Visayas State University",
+    country: "Philippines",
+    altText: "Joel Rey Acob",
   },
   {
     id: 8,
-    image: "/images/images/Nirupama.webp",
-    name: "Nirupama Esther Jerome",
-    institution: "Pinnacle Clinical Research",
-    country: "USA",
-    altText: "Nirupama Esther Jerome",
+    image: "/images/images/poornima.jpg",
+    name: "Poornima Suryanath Singh",
+    institution: "Amity University",
+    country: "India",
+    altText: "Poornima Suryanath Singh",
   },
 ];
 
@@ -132,7 +132,7 @@ const Speakers = () => {
             </div>
           </div>
 
-          <div className="members-view-all-btn-block">
+          {/* <div className="members-view-all-btn-block">
             <Link
               href="/committee"
               title="View All"
@@ -140,7 +140,7 @@ const Speakers = () => {
             >
               View All
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
