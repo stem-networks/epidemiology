@@ -123,7 +123,7 @@ const Header: React.FC<HeaderProps> = ({ generalData, registerData }) => {
 
         {/* Header Upper */}
         <div className="header-upper">
-          <div className="auto-container">
+          <div className="container-fluid">
             <div style={{ justifyContent: "space-between", display: "flex" }}>
               <div className="logo-main-block">
                 <Link
@@ -141,30 +141,6 @@ const Header: React.FC<HeaderProps> = ({ generalData, registerData }) => {
                   />
                 </Link>
               </div>
-
-              {/* <div className="venue-header-block">
-                {general.venue_p1 && general.venue_p2 && (
-                  <div className="map_wrap156" style={{ textAlign: "start" }}>
-                    <Image
-                      src="/images/images/map.jpg"
-                      alt={general.clname || ""}
-                      className="map"
-                      title={general.clname || ""}
-                      width={100}
-                      height={60}
-                    />
-                    {general.venue_p1 && (
-                      <span
-                        dangerouslySetInnerHTML={{
-                          __html: general.venue_p1.replace(",", ",<br />"),
-                        }}
-                      />
-                    )}
-                    <br />
-                    {general.venue_p2 || ""}
-                  </div>
-                )}
-              </div> */}
 
               <div className="venue-header-block">
                 {general.venue_p1 ? (
@@ -196,6 +172,10 @@ const Header: React.FC<HeaderProps> = ({ generalData, registerData }) => {
                     })()}
                   </div>
                 ) : null}
+              </div>
+
+              <div className='approved-provider-block'>
+                <Image src="/images/images/cpd.webp" width={500} height={200} alt="CPD Accredited Conference" className='approved-prov-img' title="CPD Accredited Conference" />
               </div>
 
               <div className="img_text5">

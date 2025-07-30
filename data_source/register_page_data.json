@@ -1,15 +1,15 @@
 {
     "accommodation_prices": [
         {
-            "id": "1",
+            "id": "5",
             "single": "200",
             "doubl": "230",
             "tri": "0",
             "accompanying": "180",
-            "created_dt": "0000-00-00 00:00:00",
+            "created_dt": "2024-07-15 15:05:58",
             "updated_dt": "2024-05-10 12:45:31",
             "status": "1",
-            "cid": "10029"
+            "cid": "10015"
         }
     ],
     "checkdates_text": {
@@ -43,7 +43,7 @@
     "conference_date": "March 17-19, 2025",
     "registration_open_date": {
         "register_dt": "15-03-2024",
-        "id": "1",
+        "id": "4",
         "conference_date": "March 17-19, 2025"
     },
     "RegDeadline": [
@@ -54,7 +54,7 @@
             "page_url": "early-bird-registration"
         },
         {
-            "id": "9",
+            "id": "29",
             "title": "Mid Term Registration",
             "deadline_dt": "15-10-2024",
             "page_url": "mid-term-registration"
@@ -67,15 +67,25 @@
         }
     ],
     "DiscountData": {
-        "Listener (Virtual)": {
-            "Standard Registration Fee": "$359",
+        "Presenter (In-Person)": {
+            "Standard Registration Fee": "$1499",
             "Discount %": "50%",
-            "Discounted Registration Fee": "$179"
+            "Discounted Registration Fee": "$749"
         },
         "Presenter (Virtual)": {
-            "Standard Registration Fee": "$299",
+            "Standard Registration Fee": "$499",
             "Discount %": "50%",
-            "Discounted Registration Fee": "$149"
+            "Discounted Registration Fee": "$249"
+        },
+        "Listener (In Person)": {
+            "Standard Registration Fee": "$999",
+            "Discount %": "50%",
+            "Discounted Registration Fee": "$499"
+        },
+        "Listener (Virtual)": {
+            "Standard Registration Fee": "$399",
+            "Discount %": "50%",
+            "Discounted Registration Fee": "$199"
         }
     },
     "increment_price": {

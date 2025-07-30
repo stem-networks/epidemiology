@@ -8,523 +8,548 @@
 
 
 <url>
-  <loc>https://nursing-meetings.com/</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/register</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/register</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/sessions</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/sessions</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/guidelines</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/scientific-program</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/faqs</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/guidelines</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/call-for-abstract-submission</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/faqs</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/committee</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/venue</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/list-of-topics</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/call-for-abstract-submission</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/privacy-policy</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/list-of-topics</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/oncology</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/privacy-policy</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://publichealth-meetings.com/occupational-safety-and-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://publichealth-meetings.com/public-health-epidemiology</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://publichealth-meetings.com/public-health-education</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://publichealth-meetings.com/evironmental-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://publichealth-meetings.com/public-health-nutrition</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/advances-in-prenatal-and-postnatal-care</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-information-technology</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-education</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/women-adolescents-and-children</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/gerontology-and-geriatric</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-genetics-and-genomics</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/mid-wifery</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/biostatistics</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nutrition-and-healthcare</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-nursing</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/infection-prevention-and-control</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/mental-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-continuing-education</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/social-determinants-of-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/patient-safety-and-nursing-care-quality</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/aging-and-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-in-healthcare</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/chronic-diseases</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-in-womens-health</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/alternative-medicine</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/pediatrics-and-neonatal</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/community-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/critical-care-and-emergency</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/csr-in-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/role-of-nurses-in-covid19-pandemic</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/disaster-and-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/occupational-nursing-and-safety-health</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/disability</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/evidence-based-nursing-practice</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/equity-issues-in-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/patient-centered-care-strategies</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/ethics-and-legislation</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-leadership-and-management</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/illness-prevention</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/community-health-nursing-and-public-health</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-behaviour</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/cultural-competency-in-nursing-practice</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-communications</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-research-and-evidence-synthesis</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-education-and-literacy</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/mental-health-and-behavioural-health-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-insurance</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/pediatric-nursing-and-family-health</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-technology</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/pain-management-and-pallitive-care</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/healthy-lifestyle</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/infection-control-and-disease-prevention</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/pharmacovigliance-in-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-education-and-simulation-training</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/physical-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/Integrative-and-complementary-therapies-%20in-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/prevention-research-and-promotion</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-informatics-and-data-management</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-engineering</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/global-nursing-health-challenges-and-solutions</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-ethics-and-legalities</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/telehealth-and-digital-health-technologies</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-dentistry</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/neonatal-intensive-care-unit(NICU)</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-systems-and-policies</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/clinical-decision-making-and-critical%20thinking</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/quality-of-life</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/emergency-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/reproductive-and-child-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/pediatric-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/rural-healthcare</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/critical-care</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/tele-health-e-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/healthcare-policy-and-reform</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/urban-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-roles-in-multidiciplinary-teams</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/veterinary-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-education-and-roles-of-a-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/primary-health-care</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nephrology-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/maternal-infant-and-child-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/ethical-and-legal-issues-in-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/adolescent-and-young-adults-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/clinical-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/non-communicable-diseases</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/role-of-nurses-in-cervical-cancer</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/oral-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/telemedicine-and-e-health</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-economics</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/Perioperative-Surgical-Nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-service-management</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/Preference-of-nurses-by-female-patients</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/dental-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/epidemiology-nursing-and-impact-on-public-health</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/disease-prevention-and-control</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/pharmacology-and-medication-management</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-and-human-rights</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/workforce-wellness-and-burnout-prevention</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/migration-and-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/diabetes-and-metabolism</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-informatics</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/child-oral-health-and-dentistry</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-vaccines</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/maternal-foetal-medicine</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/climate-and-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/holistic-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-toxicology</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/Infectious-diseases</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-genomics</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/obstetrics-and-gynaecology-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/healthcare-innovations</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/neonatal-vaccination</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/emergency-management</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/heart-health-for-women</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/medical-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/clinical-and-pulmonary</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/cardiovascular-desease-prevention</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/healthcare-policy-and-management</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/injury-prevention</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/Patient-advocacy-and-empowerment</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/preventive-medicine</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-intervation-in-acute-and-critical-care</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-in-conflict-zones</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/clinical-and-pulmonary-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/artificial-intelligence-in-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/aging-and-geriatric-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/blochchain-in-healthcare</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/innovations-in-nursing-research</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/food-security-and-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/Perioperative-Surgical-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/gender-and-health-inequality</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/urogynecology</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/precesion-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/veterinary-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/astrobiology-and-human-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/cardiac-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/antimicrobial-resistance</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/community-and-home-health-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/health-literacy</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-ethics</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/human-rights-in-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/advances-in-primary-healthcare-models</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/planetary-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/pediatric-cardiologist</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/sustainable-health-practices</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/orthopedic-and-trauma-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/air-quality-and-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/baby-medical-care</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/indoor-pollution</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/child-birth-and-obstetrics</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/stress-management</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/tele-nursing-and-travel-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/primary-care-urology</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/geriatric-nursing-and-age-related-conditions</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/pediatrics</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nutrition-in-women</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/geriatric-care-in-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/menopausal-and-geriatric-gynecology</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/primary-care-opthamology</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/digital-healthcare</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/primari-care-dermatology</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nephrology-and-urology-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/gynecology-and-obstetrics</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/ophthalmology-and-eye-diseases</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-pharmacy</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/radiology-and-imaging-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/obesity</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/rehabilitation-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/sociology</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/health-promotion-and-disease-prevention</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/risk-factors-in-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/advanced-nursing-practice-and-clinical-innovations</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/healthcare-and-optometry</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-education-and-workforce-development</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/parasitology-and-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/patient-safety-and-quality-care</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/public-health-leadership</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/mental-health-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/refugee-health-services</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/community-and-public-health-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/cancer-research-and-clinical-oncology</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/nursing-informatics-and-technology-integration</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/preventive-medicine-and-diabetes</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/global-health-and-nursing</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/sleep-and-public-health</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/leading-diverse-nursing-group</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/patient-empowerment</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/women-and-breast-implants</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/gene-therapy</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/oophorectomy</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/wellness-in-education-settings</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nursing-meetings.com/exercise-and-sports-medicine</loc>
-  <lastmod>2025-05-05T11:59:08+00:00</lastmod>
+  <loc>https://publichealth-meetings.com/tobacco-control-initiatives</loc>
+  <lastmod>2025-05-05T10:26:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 

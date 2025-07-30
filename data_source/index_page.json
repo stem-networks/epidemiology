@@ -1,54 +1,34 @@
 {
     "oneliner": {
-        "download_brochure": {
-            "category": "download_brochure",
-            "content": "Join us for an unparalleled networking experience – register now to connect with industry professionals and leaders!",
-            "headding": "Download Brochure"
-        },
-        "important_dates": {
-            "category": "important_dates",
-            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming NWGC 2025. Timely registration and submissions will ensure you make the most of this premier event.",
-            "headding": "Important dates"
-        },
-        "Explore_Our_Comprehensive_Networking_Services": {
-            "category": "Explore_Our_Comprehensive_Networking_Services",
-            "content": "Participating in conferences opens doors to invaluable networking opportunities, allowing you to connect with industry leaders and like-minded peers. Additionally, our events provide access to cutting-edge insights and workshops that can enhance your skills and inspire your creative journey.",
-            "headding": "Explore Our comprehensive Networking Services"
-        },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Become one of the most valued volunteers at the Nursing, Womens Health and Gynecology Conference 2025, while creating memorable experiences. Network, discuss and meet the key professionals in the health care industry while bringing great adding value to your life with the global nursing community. Seize this volunteering opportunity now.",
+            "content": "Are you ready to share your skills and passion for work with a dynamic team that is really pushing the boundaries of global health? If so, let us invite you as a volunteer for the Public Health, Occupational Health and Epidemiology Conference-2025! This is an opportunity that offers valuable experience in the creation of innovation, development of partnerships, and personal growth. Share with us in making an everlasting difference in the future of global public health.",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Be a voice of progress in nursing! Share your expertise and help shape the future of healthcare. Submit your abstract and inspire change.",
+            "content": "Shape the future of public health now. Share your latest research with us. Meet the experts and broaden your network. Submit your abstract and join today. Be part of a history-making event now.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Experience a tailored journey of discovery at our sessions at global nursing conference, where knowledge meets innovation forge meaningful connections that drive progress in nursing industry.",
+            "content": "Join the wide variety of sessions at Public Health, Occupational Health and Epidemiology Conference 2025: cutting-edge research, participative interactivity workshops, and lively debate by the specialists. Express yourself in areas of interest to help shape the outcome of future public health policy from a global perspective.",
             "headding": "Sessions"
-        },
-        "footer_content": {
-            "category": "footer_content",
-            "content": "Connect with us at our Nursing, Womens Health and Gynecology Conference for insightful sessions, interactive workshops, and networking opportunities that empower you to make a meaningful impact in the field of nursing.",
-            "headding": "Footer content"
         },
         "offers_content": {
             "1": {
                 "category": "offers_content",
-                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\n          <h2>Book by Nov 2024 &amp; Save huge!</h2>\n          <h3>BRING A COLLEAGUE SAVE $200 TOTAL, BRING MORE, SAVE MORE</h3>\n          <a href=\"/register\" title=\"Register\">Register now</a>\n        </div>",
+                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n          <h2>Book by MAY. 2023 &amp; Save $1651!</h2>\r\n          <h3>BRING A COLLEAGUE SAVE $200 TOTAL, BRING MORE, SAVE MORE</h3>\r\n          <a href=\"/register\">Register now</a>\r\n        </div>",
                 "headding": "Offers Content"
             },
             "2": {
                 "category": "offers_content",
-                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\n          <h2>Collaborate with colleagues and enjoy cost savings</h2>\n          <h3>Seize the opportunity to attend as a group and save</h3>\n          <a href=\"/register\" title=\"Register\">Register now</a>\n        </div>",
+                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n          <h2>Collaborate with colleagues and enjoy cost savings</h2>\r\n          <h3>Seize the opportunity to attend as a group and save</h3>\r\n          <a href=\"/register\">Register now</a>\r\n        </div>",
                 "headding": "Offers Content"
             },
             "3": {
                 "category": "offers_content",
-                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\n          <h2>The More, the Merrier! Register as a group of 3 or more</h2>\n          <h3>and unlock a 20% discount for everyone!</h3>\n          <a href=\"/register\" title=\"Register\">Register now</a>\n        </div>",
+                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n <h2>The More, the Merrier! Register as a group of 3 or more</h2>\r\n <h3>and unlock a 20% discount for everyone!</h3>\r\n <a href=\"/register\">Register now</a>\r\n </div>",
                 "headding": "Offers Content"
             },
             "4": {
@@ -66,80 +46,90 @@
                 "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n          <h2>Book by Nov 2024 &amp; Save huge!</h2>\r\n          <h3>BRING A COLLEAGUE SAVE $200 TOTAL, BRING MORE, SAVE MORE</h3>\r\n          <a href=\"/register\" title=\"Register\">Register now</a>\r\n        </div>",
                 "headding": "Offers content"
             }
+        },
+        "download_brochure": {
+            "category": "download_brochure",
+            "content": "Join us for an unparalleled networking experience – register now to connect with industry professionals and leaders!",
+            "headding": "Download Brochure"
+        },
+        "important_dates": {
+            "category": "important_dates",
+            "content": "Stay on track with our key dates to ensure you don't miss any important deadlines or events related to the conference.",
+            "headding": "Important dates"
+        },
+        "Explore_Our_Comprehensive_Networking_Services": {
+            "category": "Explore_Our_Comprehensive_Networking_Services",
+            "content": "Unlock new opportunities and build valuable connections with our comprehensive networking services, tailored to enhance your conference experience.",
+            "headding": "Explore Our comprehensive Networking Services"
+        },
+        "footer_content": {
+            "category": "footer_content",
+            "content": "Welcome to our Public Health, Occupational Health and Epidemiology Conference, where dedicated professionals accumulate to discover the ultra-modern advancements and high-quality practices in healthcare.",
+            "headding": "Footer content"
         }
     },
     "banner_conent": {
-        "3": {
-            "banner_conent_id": "3",
+        "6": {
+            "banner_conent_id": "6",
             "image": "images/banner.jpg",
-            "headding": "Empowering Nurses: Innovations, Leadership, and Future Challenges in Healthcare",
-            "tag_line": "NWGC-October 02-03, 2025 in Geneva, Switzerland",
-            "content": "Engage with the experts of the profession at the Nursing, Womens Health and Gynecology Conference! Engage with powerful keynote sessions, expert panels, and innovative ideas in healthcare. Download our brochure here to learn more about this event this October and book your spot now!",
+            "headding": "Inspire innovation and community for a healthier, sustainable future.",
+            "tag_line": "POEC-October 02-03, 2025 in Switzerland",
+            "content": "Experience the Public Health, Occupational Health and Epidemiology Conference, where the greatest minds lead the most important conversations. Download our brochure to get all the key takeaways, sessions, and registration details.",
             "page": "index",
             "status": "1",
-            "cid": "10029"
-        },
-        "24": {
-            "banner_conent_id": "24",
-            "image": "images/banner.jpg",
-            "headding": "Welcome to Conferences",
-            "tag_line": "Join us for an unparalleled networking experience – register now to connect with industry professionals\r\n             and leaders!",
-            "content": "Be a part of a uniquely enriching experience at our Conferences! Engage with pioneering \r\n            strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions.\r\n            Secure your  place today for unrivaled insights into the future.",
-            "page": "home",
-            "status": "1",
-            "cid": "10029"
+            "cid": "10015"
         }
     },
     "sessions": [
         {
-            "text": "1. Advanced Nursing Practice and Clinical Innovations",
-            "link": "advanced-nursing-practice-and-clinical-innovations",
-            "session_short_name": "Advanced Nursing Practice and Clinical Innovations"
+            "text": "1. Pandemic Preparedness and Response",
+            "link": "pandemic-preparedness-and-response",
+            "session_short_name": "Pandemic Preparedness and Response"
         },
         {
-            "text": "2.\tNursing Education and Workforce Development",
-            "link": "nursing-education-and-workforce-development",
-            "session_short_name": "Nursing Education and Workforce Development"
+            "text": "2.\tClimate Change and Health",
+            "link": "climate-change-and-health",
+            "session_short_name": "Climate Change and Health"
         },
         {
-            "text": "3.\tPatient Safety and Quality Care",
-            "link": "patient-safety-and-quality-care",
-            "session_short_name": "Patient Safety and Quality Care"
+            "text": "3.\tGlobal Health Equity",
+            "link": "global-health-equity",
+            "session_short_name": "Global Health Equity"
         },
         {
-            "text": "4.\tMental Health Nursing",
-            "link": "mental-health-nursing",
-            "session_short_name": "Mental Health Nursing"
+            "text": "4.\tAntimicrobial Resistance (AMR)",
+            "link": "antimicrobial-resistance-(amr)",
+            "session_short_name": "Antimicrobial Resistance (AMR)"
         },
         {
-            "text": "5.\tCommunity and Public Health Nursing",
-            "link": "community-and-public-health-nursing",
-            "session_short_name": "Community and Public Health Nursing"
+            "text": "5.\tMental Health",
+            "link": "mental-health",
+            "session_short_name": "Mental Health"
         },
         {
-            "text": "6.\tPediatric and Geriatric Nursing",
-            "link": "pediatric-and-geriatric-nursing",
-            "session_short_name": "Pediatric and Geriatric Nursing"
+            "text": "6.\tEpidemiology",
+            "link": "epidemiology",
+            "session_short_name": "Epidemiology"
         },
         {
-            "text": "7. Nursing Informatics and Technology  Integration",
-            "link": "nursing-informatics-and-technology-integration",
-            "session_short_name": "Nursing Informatics and Technology  Integration"
+            "text": "7. Public Health Nutrition",
+            "link": "public-health-nutrition",
+            "session_short_name": "Public Health Nutrition"
         },
         {
-            "text": "8.Global Health and Nursing",
-            "link": "global-health-and-nursing",
-            "session_short_name": "Global Health and Nursing"
+            "text": "8.Diabetes",
+            "link": "diabetes",
+            "session_short_name": "Diabetes"
         },
         {
-            "text": "9.\tNursing leadership and Management",
-            "link": "nursing-leadership-and-management",
-            "session_short_name": "Nursing leadership and Management"
+            "text": "9.\tInfectious Diseases",
+            "link": "vaccine-hesitancy-and-public-trust",
+            "session_short_name": "Infectious Diseases"
         },
         {
-            "text": "10. Leading diverse nursing force",
-            "link": "leading-diverse-nursing-force",
-            "session_short_name": "Leading diverse nursing force"
+            "text": "10. Reproductive Health",
+            "link": "reproductive-health",
+            "session_short_name": "Reproductive Health"
         }
     ],
     "important_dates": [
@@ -153,21 +143,21 @@
         }
     ],
     "venue_images": {
-        "2": {
-            "image": "images/g2.webp",
-            "alt_text": "The land of cheese & chocolates"
+        "25": {
+            "image": "images/g1.webp",
+            "alt_text": "Trave Live"
         },
-        "4": {
+        "26": {
+            "image": "images/g2.webp",
+            "alt_text": "The Land of Cheese & Chocolates"
+        },
+        "27": {
+            "image": "images/g3.webp",
+            "alt_text": "Zermatt"
+        },
+        "28": {
             "image": "images/g4.webp",
             "alt_text": "Lake Lucerne Switzerland"
-        },
-        "3": {
-            "image": "images/g3.webp",
-            "alt_text": "Trave live"
-        },
-        "1": {
-            "image": "images/g1.webp",
-            "alt_text": "Zermatt"
         }
     }
 }

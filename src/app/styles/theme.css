@@ -8,19 +8,20 @@ Intructions:
 3) If there is a need to do any new block for any conference website in specific, ensure to add and save the file in the style.css
  */
 :root {
-	--primary-color: #00b9d7;
-	--secondary-color: #fc6d11;
+	--primary-color: #06a871;
+	--secondary-color: #22568a;
 	--third-color: #012f5d;
-	--light-color: #eefdff;
+	--light-color: #dbf2ea;
 	--preloader-color: #f9fbfe;
 	--white-color: #fff;
 	--black-color: #000;
-	--abstractfilebg-color: #8cdfed;
-	--offerbg-color: #2b3b5c;
+	--abstractfilebg-color: #69f9c8;
+	--offerbg-color: #333436;
 	--contentbg-color: #737373;
 	--iconbg-color: #adadad;
-	--bannerhover-color: #029bb4;
+	--bannerhover-color: #22568a;
 	--registerbg-color: #87dae7;
+	--modalred-color: #ef513a;
 }
 
 .error {
@@ -95,7 +96,7 @@ a {
 .sticky-header .logo .sti-logo {
 	width: 100%;
 	height: auto;
-	margin: -5px 0px 0px;
+	margin: 15px 0px 0px;
 }
 
 .banner_wrap {
@@ -757,7 +758,7 @@ a {
 
 	.main-menu .navbar-header .navbar-toggle {
 		background: var(--primary-color);
-		margin-top: 20px !important;
+		/* margin-top: 20px !important; */
 	}
 
 	.main-menu .navbar-header .navbar-toggle .icon-bar {
@@ -1631,7 +1632,7 @@ a {
 /* Welcome Message */
 
 .welcomemsg-section {
-	background: url(/images/images/welcomebg-mobile.webp);
+	background: url(/images/images/welcomebg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	/* border-radius: 35px; */
@@ -1639,25 +1640,25 @@ a {
 
 @media only screen and (min-width: 320px) and (max-width: 575px) {
 	.welcomemsg-section {
-		background: url(/images/images/welcomebg-mobile.webp) !important;
+		background: url(/images/images/welcomebg-mobile.png) !important;
 	}
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 	.welcomemsg-section {
-		background: url(/images/images/welcomebg-mobile.webp) !important;
+		background: url(/images/images/welcomebg-mobile.png) !important;
 	}
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.welcomemsg-section {
-		background: url(/images/images/welcomebg-mobile.webp) !important;
+		background: url(/images/images/welcomebg-mobile.png) !important;
 	}
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1250px) {
 	.welcomemsg-section {
-		background: url(/images/images/welcomebg-mobile.webp) !important;
+		background: url(/images/images/welcomebg-mobile.png) !important;
 	}
 }
 

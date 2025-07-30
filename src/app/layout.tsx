@@ -20,6 +20,7 @@ import {
   emptyIndexPageData,
   emptyRegisterInfo,
 } from "@/lib/fallbacks";
+import MediaCollaborators from "./components/MediaCollaborators";
 
 async function safeFetch<T>(fn: () => Promise<T>, fallback: T): Promise<T> {
   try {
@@ -209,6 +210,7 @@ export default async function RootLayout({
         />
         <Header generalData={generaldata} registerData={registerData} />
         {children}
+        <MediaCollaborators/>
         <PartneredContent />
         <Footer indexPageData={indexPageData} generalData={generaldata} />
       </body>
