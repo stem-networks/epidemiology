@@ -5582,7 +5582,7 @@ li {
 	width: 93.5%;
 	height: 174.5px;
 	display: block;
-	background-image: url(/images/images/cal.png);
+	/* background-image: url(/images/images/cal.png); */
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 70px 0px 0px 0px;
@@ -5594,7 +5594,7 @@ li {
 	width: 93.5%;
 	height: 174.5px;
 	display: block;
-	background-image: url(/images/images/cal2.png);
+	/* background-image: url(/images/images/cal2.png); */
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 70px 0px 0px 0px;
