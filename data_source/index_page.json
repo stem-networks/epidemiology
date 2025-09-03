@@ -54,7 +54,7 @@
         },
         "important_dates": {
             "category": "important_dates",
-            "content": "Stay on track with our key dates to ensure you don't miss any important deadlines or events related to the conference.",
+            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming POEC-2026. Timely registration and submissions will ensure you make the most of this premier event.",
             "headding": "Important dates"
         },
         "Explore_Our_Comprehensive_Networking_Services": {
@@ -145,19 +145,19 @@
     "venue_images": {
         "25": {
             "image": "images/g1.webp",
-            "alt_text": "Trave Live"
+            "alt_text": "Orchard Road"
         },
         "26": {
             "image": "images/g2.webp",
-            "alt_text": "The Land of Cheese & Chocolates"
+            "alt_text": "Chinatown"
         },
         "27": {
             "image": "images/g3.webp",
-            "alt_text": "Zermatt"
+            "alt_text": "Merlion Park"
         },
         "28": {
             "image": "images/g4.webp",
-            "alt_text": "Lake Lucerne Singapore"
+            "alt_text": "Clarke Quay"
         }
     }
 }
