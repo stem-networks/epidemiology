@@ -15,71 +15,72 @@ interface Speaker {
 const membersData: Speaker[] = [
   {
     id: 1,
-    image: "/images/images/Harit.webp",
-    name: "Harit Agroia",
-    institution: "San José State University",
+    image: "/images/images/Ephraim_Suhir.jpg",
+    name: "Ephraim Suhir",
+    institution: "Portland State University",
     country: "USA",
-    altText: "Harit Agroia",
+    altText: "Ephraim Suhir",
   },
   {
     id: 2,
-    image: "/images/images/vincent.webp",
-    name: "Vincent La Placa",
-    institution: "University of Greenwich",
+    image: "/images/images/Milan.webp",
+    name: "Milan Kooplikkattil Sadan",
+    institution: "Imperial College London",
     country: "UK",
-    altText: "Vincent La Placa",
+    altText: "Milan Kooplikkattil Sadan",
   },
   {
     id: 3,
-    image: "/images/images/sergey.webp",
-    name: "Sergey Suchkov",
-    institution: "National Center for Human Photosynthesis",
-    country: "Mexico",
-    altText: "Sergey Suchkov",
+    image: "/images/images/john.webp",
+    name: "John Zhou",
+    institution: "University of Technology Sydney",
+    country: "Australia",
+    altText: "John Zhou",
   },
   {
     id: 4,
-    image: "/images/images/Meram.webp",
-    name: "Meram Mohammed Ali Azzani",
-    institution: "Universiti Teknologi MARA (UiTM)",
-    country: "Malaysia",
-    altText: "Meram Mohammed Ali Azzani",
+    image: "/images/images/nasimuddin.webp",
+    name: "Nasimuddin",
+    institution: "Institute for Infocomm Research",
+    country: "Singapore",
+    altText: "Nasimuddin",
   },
   {
     id: 5,
-    image: "/images/images/Uqbah.webp",
-    name: "Uqbah Iqbal",
-    institution: "Universiti Kebangsaan",
-    country: "Malaysia",
-    altText: "Uqbah Iqbal",
+    image: "/images/images/Junling.webp",
+    name: "Junling Shi",
+    institution: "Northwestern Polytechnical University",
+    country: "China",
+    altText: "Junling Shi",
   },
   {
     id: 6,
-    image: "/images/images/elymer.webp",
-    name: "Elymar A. Pascual",
-    institution: "Talangan Integrated National High School",
-    country: "Philippines",
-    altText: "Elymar A. Pascual",
+    image: "/images/images/Yuhong.webp",
+    name: "Yuhong Zhao",
+    institution: "North University of China",
+    country: "China",
+    altText: "Yuhong Zhao",
   },
   {
     id: 7,
-    image: "/images/images/joel.webp",
-    name: "Joel Rey Acob",
-    institution: "Visayas State University",
-    country: "Philippines",
-    altText: "Joel Rey Acob",
+    image: "/images/images/sergey.webp",
+    name: "Sergey Suchkov",
+    institution:
+      "N.D. Zelinskii Institute for Organic Chemistry of the Russian Academy of Sciences, Moscow",
+    country: "Russia",
+    altText: "Sergey Suchkov",
   },
   {
     id: 8,
-    image: "/images/images/poornima.jpg",
-    name: "Poornima Suryanath Singh",
-    institution: "Amity University",
-    country: "India",
-    altText: "Poornima Suryanath Singh",
+    image: "/images/images/sait.webp",
+    name: "Sait Eren San",
+    institution: "Kocaeli University",
+    country: "Turkey",
+    altText: "Sait Eren San",
   },
 ];
 
-const Speakers = () => {
+const Members = () => {
   return (
     <div className="speakers-section first-design">
       <div className="import_wrap">
@@ -91,7 +92,7 @@ const Speakers = () => {
               data-wow-duration="1000ms"
             >
               <h2>
-                Our <span>Planning Committee</span>
+                Our <span>Planning Committee 2025</span>
               </h2>
             </div>
           </div>
@@ -147,4 +148,4 @@ const Speakers = () => {
   );
 };
 
-export default Speakers;
+export default Members;

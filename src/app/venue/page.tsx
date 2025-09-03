@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link';
-import Image from 'next/image';
+// import Image from 'next/image';
 import { getBaseUrl } from "@/lib/getBaseUrl";
 import { ApiResponse } from '@/types';
 import { Metadata } from 'next';
@@ -14,45 +14,45 @@ async function fetchGeneralData(): Promise<ApiResponse> {
 }
 
 async function fetchGeneralDataStatic(): Promise<ApiResponse> {
-  const baseUrl = getBaseUrl();
-  const res = await fetch(`${baseUrl}/api/general`, {
-    next: { revalidate: 3600 }, // Cache for 1 hour
-  });
-  if (!res.ok) throw new Error("Failed to fetch general data statically");
-  return res.json();
+    const baseUrl = getBaseUrl();
+    const res = await fetch(`${baseUrl}/api/general`, {
+        next: { revalidate: 3600 }, // Cache for 1 hour
+    });
+    if (!res.ok) throw new Error("Failed to fetch general data statically");
+    return res.json();
 }
 
 export async function generateMetadata(): Promise<Metadata> {
-  try {
-    const generalData = await fetchGeneralDataStatic();
-    const meta = generalData?.pages?.venue?.[0] || {
-      title: "Venue",
-      content: "Explore the Venue of the conference.",
-      meta_keywords: "",
-    };
+    try {
+        const generalData = await fetchGeneralDataStatic();
+        const meta = generalData?.pages?.venue?.[0] || {
+            title: "Venue",
+            content: "Explore the Venue of the conference.",
+            meta_keywords: "",
+        };
 
-    // Canonical
-    // const baseUrl = process.env.BASE_URL || "";
-    const canonicalPath = "/venue"; // hardcode since we know this is sessions page
-    const canonicalURL = `${getBaseUrl()}${canonicalPath}`;
+        // Canonical
+        // const baseUrl = process.env.BASE_URL || "";
+        const canonicalPath = "/venue"; // hardcode since we know this is sessions page
+        const canonicalURL = `${getBaseUrl()}${canonicalPath}`;
 
-    return {
-      title: meta.title,
-      description: meta.content,
-      keywords: meta.meta_keywords,
-      metadataBase: new URL(getBaseUrl()),
-      alternates: {
-        canonical: canonicalURL,
-      },
-    };
-  } catch (error) {
-    console.error("Metadata generation error Venue:", error);
-    return {
-      title: "Venue",
-      description: "Explore the Venue of the conference.",
-      keywords: "",
-    };
-  }
+        return {
+            title: meta.title,
+            description: meta.content,
+            keywords: meta.meta_keywords,
+            metadataBase: new URL(getBaseUrl()),
+            alternates: {
+                canonical: canonicalURL,
+            },
+        };
+    } catch (error) {
+        console.error("Metadata generation error Venue:", error);
+        return {
+            title: "Venue",
+            description: "Explore the Venue of the conference.",
+            keywords: "",
+        };
+    }
 }
 
 
@@ -92,7 +92,7 @@ const Venue = async () => {
                                         <div className='heading poster-heading'>Venue Details:</div>
 
                                         {(() => {
-                                            const addressParts = [general.location_name, general.loc_address, general.v2, general.v1].filter(Boolean); // Remove empty values
+                                            const addressParts = [, general.v1, general.v2].filter(Boolean); // Remove empty values
 
                                             if (addressParts.length === 0) return null;
 
@@ -103,7 +103,7 @@ const Venue = async () => {
                                         })()}
 
 
-                                        <p className='venue-heading-p'><b>General Inquiries: </b>{general.cemail ? general.cemail : ''}</p>
+                                        <p className='venue-heading-p'><b>General Inquiries: </b><Link href={`mailto:${general?.cemail || ""}`} title={general?.cemail || ''}>{general?.cemail || ''}</Link></p>
 
 
                                         <div
@@ -128,7 +128,7 @@ const Venue = async () => {
 
                     <div className='hotel-map-block'>
                         <div className='venue-mapping-block'>
-                            <div className='venue-mapping-left-block'>
+                            {/* <div className='venue-mapping-left-block'>
                                 <h3>Hotel Images</h3>
                                 <div className='hotelImages-block'>
                                     <Image src="/images/images/hotel1.webp" width={200} height={200} alt="" title="" />
@@ -136,20 +136,20 @@ const Venue = async () => {
                                     <Image src="/images/images/hotel3.webp" width={200} height={200} alt="" title="" />
                                     <Image src="/images/images/hotel4.webp" width={200} height={200} alt="" title="" />
                                 </div>
-                            </div>
+                            </div> */}
                             <div className='venue-mapping-right-block'>
                                 <h3>Map</h3>
                                 <div className="google-map">
                                     <div style={{ width: "100%", height: "300px" }}>
 
-                                        {/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.643554321588!2d103.98345537371655!3d1.3904245114466998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3c1790ad230f%3A0x9a82f5d6e0a2ca90!2sVillage%20Hotel%20Changi!5e0!3m2!1sen!2sin!4v1741257037701!5m2!1sen!2sin" width="100%"
+                                        {/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2760.5137950041217!2d6.102712799999999!3d46.2201263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c654ba27a4fad%3A0xeae08a7a56633043!2sIntercityHotel%20Geneva!5e0!3m2!1sen!2sin!4v1747975520473!5m2!1sen!2sin" width="100%"
                                             height="100%"
                                             style={{ border: "0" }}
                                             loading="lazy"
                                             allowFullScreen
                                             referrerPolicy="no-referrer-when-downgrade"></iframe> */}
 
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2760.5137950041217!2d6.102712799999999!3d46.2201263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c654ba27a4fad%3A0xeae08a7a56633043!2sIntercityHotel%20Geneva!5e0!3m2!1sen!2sin!4v1747975520473!5m2!1sen!2sin" width="100%"
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95780.6243159463!2d2.1401890999999997!3d41.392667949999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a49816718e30e5%3A0x44b0fb3d4f47660a!2sBarcelona%2C%20Spain!5e0!3m2!1sen!2sin!4v1755149952443!5m2!1sen!2sin" width="100%"
                                             height="100%"
                                             style={{ border: "0" }}
                                             loading="lazy"

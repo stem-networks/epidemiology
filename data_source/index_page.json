@@ -2,7 +2,7 @@
     "oneliner": {
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Are you ready to share your skills and passion for work with a dynamic team that is really pushing the boundaries of global health? If so, let us invite you as a volunteer for the Public Health, Occupational Health and Epidemiology Conference-2025! This is an opportunity that offers valuable experience in the creation of innovation, development of partnerships, and personal growth. Share with us in making an everlasting difference in the future of global public health.",
+            "content": "Are you ready to share your skills and passion for work with a dynamic team that is really pushing the boundaries of global health? If so, let us invite you as a volunteer for the Public Health Conference-2025! This is an opportunity that offers valuable experience in the creation of innovation, development of partnerships, and personal growth. Share with us in making an everlasting difference in the future of global public health.",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
@@ -12,7 +12,7 @@
         },
         "sessions": {
             "category": "sessions",
-            "content": "Join the wide variety of sessions at Public Health, Occupational Health and Epidemiology Conference 2025: cutting-edge research, participative interactivity workshops, and lively debate by the specialists. Express yourself in areas of interest to help shape the outcome of future public health policy from a global perspective.",
+            "content": "Join the wide variety of sessions at Public Health Conference 2025: cutting-edge research, participative interactivity workshops, and lively debate by the specialists. Express yourself in areas of interest to help shape the outcome of future public health policy from a global perspective.",
             "headding": "Sessions"
         },
         "offers_content": {
@@ -64,7 +64,7 @@
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to our Public Health, Occupational Health and Epidemiology Conference, where dedicated professionals accumulate to discover the ultra-modern advancements and high-quality practices in healthcare.",
+            "content": "Welcome to our Public Health Conference, where dedicated professionals accumulate to discover the ultra-modern advancements and high-quality practices in healthcare.",
             "headding": "Footer content"
         }
     },
@@ -73,11 +73,11 @@
             "banner_conent_id": "6",
             "image": "images/banner.jpg",
             "headding": "Inspire innovation and community for a healthier, sustainable future.",
-            "tag_line": "POEC-October 02-03, 2025 in Switzerland",
-            "content": "Experience the Public Health, Occupational Health and Epidemiology Conference, where the greatest minds lead the most important conversations. Download our brochure to get all the key takeaways, sessions, and registration details.",
+            "tag_line": "Public Health-POEC August 06-07, 2026 in Singapore",
+            "content": "Experience the Public Health Conference, where the greatest minds lead the most important conversations. Download our brochure to get all the key takeaways, sessions, and registration details.",
             "page": "index",
             "status": "1",
-            "cid": "10015"
+            "cid": "3"
         }
     },
     "sessions": [
@@ -135,11 +135,11 @@
     "important_dates": [
         {
             "text": "First Round of Abstract Submission Deadline",
-            "date": "29<sub>th</sub> <span>August <br> 2025</span>"
+            "date": "22<sub>nd</sub> <span>September <br> 2025</span>"
         },
         {
             "text": "Early Bird Registration Deadline",
-            "date": "29<sub>th</sub> <span>August <br> 2025</span>"
+            "date": "22<sub>nd</sub> <span>September <br> 2025</span>"
         }
     ],
     "venue_images": {
@@ -157,7 +157,7 @@
         },
         "28": {
             "image": "images/g4.webp",
-            "alt_text": "Lake Lucerne Switzerland"
+            "alt_text": "Lake Lucerne Singapore"
         }
     }
 }
