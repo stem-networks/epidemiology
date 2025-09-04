@@ -2,17 +2,17 @@
     "oneliner": {
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Do you wish to become part of something meaningful? Become a Volunteer with us at the <b>Public Health Conference 2026</b> and be a part of making one of the world's premier meetings of health practitioners, researchers, and policymakers a success.",
+            "content": "Do you wish to become part of something meaningful? Become a Volunteer with us at the <b>Epidemiology Conference 2026</b> and be a part of making one of the world's premier meetings of health practitioners, researchers, and policymakers a success.",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "We welcome researchers, academicians, public health professionals, policy makers, and industry specialists from across the world to present their current research and innovative concepts in the Public Health Conference 2026.",
+            "content": "We welcome researchers, academicians, public health professionals, policy makers, and industry specialists from across the world to present their current research and innovative concepts in the Epidemiology Conference 2026.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Our Public Health Conference 2026 brings together global leaders, researchers, and practitioners to explore innovative solutions for a healthier world. The scientific program is designed to cover the latest trends, challenges, and opportunities across the field of public health.",
+            "content": "Our Epidemiology Conference 2026 brings together global leaders, researchers, and practitioners to explore innovative solutions for a healthier world. The scientific program is designed to cover the latest trends, challenges, and opportunities across the field of public health.",
             "headding": "Sessions"
         },
         "offers_content": {
@@ -64,7 +64,7 @@
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to our Global Public Health Conference, in which leaders, researchers, and professionals come together to exchange information, stimulate innovation, and drive strategies for healthier communities and a sustainable future.",
+            "content": "Welcome to our Global Epidemiology Conference, in which leaders, researchers, and professionals come together to exchange information, stimulate innovation, and drive strategies for healthier communities and a sustainable future.",
             "headding": "Footer content"
         }
     },
@@ -77,7 +77,7 @@
             "content": "Get complete details about <b>Public Health-2026</b> in our official conference brochure. Discover keynote speakers, scientific sessions, and panel discussions on global health challenges. Explore networking forums designed to connect you with public health leaders worldwide. Download now and start planning your participation at Public Health-2026!",
             "page": "index",
             "status": "1",
-            "cid": "3"
+            "cid": "10015"
         }
     },
     "sessions": [
