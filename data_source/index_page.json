@@ -2,17 +2,17 @@
     "oneliner": {
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Do you wish to become part of something meaningful? Become a Volunteer with us at the <b>Epidemiology Conference 2026</b> and be a part of making one of the world's premier meetings of health practitioners, researchers, and policymakers a success.",
+            "content": "Join <b>Epidemiology 2026</b> as a volunteer and be an integral part of this global conference. Gain practical experience, network with leading public health professionals, and contribute to advancing research and disease prevention initiatives.",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "We welcome researchers, academicians, public health professionals, policy makers, and industry specialists from across the world to present their current research and innovative concepts in the Epidemiology Conference 2026.",
+            "content": "Share your latest research, data analyses, or case studies in epidemiology, disease prevention, and public health at Epidemiology 2026. Accepted abstracts will be presented as oral or poster sessions to a global audience of experts.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Our Epidemiology Conference 2026 brings together global leaders, researchers, and practitioners to explore innovative solutions for a healthier world. The scientific program is designed to cover the latest trends, challenges, and opportunities across the field of public health.",
+            "content": "At Epidemiology 2026, the scientific sessions will explore cutting-edge research, innovative methodologies, and real-world applications in disease surveillance, prevention, and population health. Each session fosters collaboration among researchers, clinicians, and public health professionals to strengthen global health strategies and prepare for future challenges.",
             "headding": "Sessions"
         },
         "offers_content": {
@@ -64,7 +64,7 @@
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to our Global Epidemiology Conference, in which leaders, researchers, and professionals come together to exchange information, stimulate innovation, and drive strategies for healthier communities and a sustainable future.",
+            "content": "Welcome to Epidemiology 2026, where global researchers, public health professionals, policymakers, and healthcare leaders come together to share innovations, foster collaboration, and advance disease prevention, population health, and evidence-based strategies for a healthier world.",
             "headding": "Footer content"
         }
     },
@@ -72,9 +72,9 @@
         "6": {
             "banner_conent_id": "6",
             "image": "images/banner.jpg",
-            "headding": "Public Health: Preventing disease, promoting wellness, and protecting communities for a healthier future",
-            "tag_line": "Public Health-POEC August 06-07, 2026 in Singapore",
-            "content": "Get complete details about <b>Public Health-2026</b> in our official conference brochure. Discover keynote speakers, scientific sessions, and panel discussions on global health challenges. Explore networking forums designed to connect you with public health leaders worldwide. Download now and start planning your participation at Public Health-2026!",
+            "headding": "Strengthening health systems through the science of epidemiology",
+            "tag_line": "Epidemiology-POEC August 06-07, 2026 in Singapore",
+            "content": "Get the official brochure of <b>Epidemiology 2026</b>, featuring conference themes, scientific sessions, keynote speakers, and participation details. Explore abstract submission guidelines, registration options, and key dates—download now and join global experts shaping the future of disease prevention and public health.",
             "page": "index",
             "status": "1",
             "cid": "10015"
@@ -82,54 +82,54 @@
     },
     "sessions": [
         {
-            "text": "1. Global Health Challenges",
-            "link": "global-health-challenges",
-            "session_short_name": "Global Health Challenges"
+            "text": "1.\tEpidemiology",
+            "link": "pandemic-preparedness-and-response",
+            "session_short_name": "Pandemic Preparedness and Response"
         },
         {
-            "text": "2. Climate Change, Environment",
-            "link": "climate-change-environment",
-            "session_short_name": "Climate Change, Environment"
+            "text": "2.\tEpidemiology and Public Health",
+            "link": "climate-change-and-health",
+            "session_short_name": "Climate Change and Health"
         },
         {
-            "text": "3. Digital Health",
-            "link": "digital-health",
-            "session_short_name": "Digital Health"
+            "text": "3.\tEpidemiological Modeling & Forecasting",
+            "link": "global-health-equity",
+            "session_short_name": "Global Health Equity"
         },
         {
-            "text": "4. AI in Public Health",
-            "link": "ai-in-public-health",
-            "session_short_name": "AI in Public Health"
+            "text": "4.\tGenetic Epidemiology",
+            "link": "antimicrobial-resistance-(amr)",
+            "session_short_name": "Antimicrobial Resistance (AMR)"
         },
         {
-            "text": "5. Public Health Policy, Leadership & Global Collaboration",
-            "link": "public-health-policy-leadership-global-collaboration",
-            "session_short_name": "Public Health Policy, Leadership & Global Collaboration"
+            "text": "5.\tCancer Epidemiology",
+            "link": "mental-health",
+            "session_short_name": "Mental Health"
         },
         {
-            "text": "6. Nutrition, Food Security & Sustainable Health",
-            "link": "nutrition-food-security-sustainable-health",
-            "session_short_name": "Nutrition, Food Security & Sustainable Health"
+            "text": "6.\tChronic Disease Epidemiology",
+            "link": "epidemiology",
+            "session_short_name": "Epidemiology"
         },
         {
-            "text": "7. Non-Communicable Diseases (NCDs)",
-            "link": "non-communicable-diseases-ncds",
-            "session_short_name": "Non-Communicable Diseases (NCDs)"
+            "text": "7.\tMental Health Epidemiology",
+            "link": "public-health-nutrition",
+            "session_short_name": "Public Health Nutrition"
         },
         {
-            "text": "8. Infectious Diseases",
-            "link": "infectious-diseases",
+            "text": "8.\tClinical Epidemiology",
+            "link": "diabetes",
+            "session_short_name": "Diabetes"
+        },
+        {
+            "text": "9.\tCardiovascular Epidemiology",
+            "link": "vaccine-hesitancy-and-public-trust",
             "session_short_name": "Infectious Diseases"
         },
         {
-            "text": "9. Sustainable Health",
-            "link": "sustainable-health",
-            "session_short_name": "Sustainable Health"
-        },
-        {
-            "text": "10. Behavioural Well-Being",
-            "link": "behavioural-well-being",
-            "session_short_name": "Behavioural Well-Being"
+            "text": "10.\tGlobal Health & Disease Surveillance",
+            "link": "reproductive-health",
+            "session_short_name": "Reproductive Health"
         }
     ],
     "important_dates": [
